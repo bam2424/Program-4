@@ -1,0 +1,8 @@
+C:\Users\Brandon\Desktop\all visual studio saves\Program 4\Program 4\bin\Debug\Program 4.exe.config
+C:\Users\Brandon\Desktop\all visual studio saves\Program 4\Program 4\bin\Debug\Program 4.exe
+C:\Users\Brandon\Desktop\all visual studio saves\Program 4\Program 4\bin\Debug\Program 4.pdb
+C:\Users\Brandon\Desktop\all visual studio saves\Program 4\Program 4\obj\Debug\Program 4.csproj.AssemblyReference.cache
+C:\Users\Brandon\Desktop\all visual studio saves\Program 4\Program 4\obj\Debug\Program 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brandon\Desktop\all visual studio saves\Program 4\Program 4\obj\Debug\Program 4.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\all visual studio saves\Program 4\Program 4\obj\Debug\Program 4.exe
+C:\Users\Brandon\Desktop\all visual studio saves\Program 4\Program 4\obj\Debug\Program 4.pdb
